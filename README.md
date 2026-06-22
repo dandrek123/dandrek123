@@ -30,6 +30,6 @@ Features:
 - Active development
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/dandre-knight-358836251
+- LinkedIn: www.linkedin.com/in/d’andre-knight-358836251
 - Email: dandre.a.knight@gmail.com
 - Handshake: https://app.joinhandshake.com/profiles/swxp9d
