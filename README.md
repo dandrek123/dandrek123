@@ -18,11 +18,18 @@
 - Git
 - Linux
 
-## Current Project
+## Current Projects
+
+### Athena Voice Bot
+
+AI-powered healthcare patient simulator built with Python, Gemini, transcript logging, scenario-based testing, and automated conversation analysis.
+
 ### KnightLang
+
 A custom programming language built from scratch in Python.
 
 Features:
+
 - Lexer
 - Parser
 - Interpreter
@@ -32,4 +39,3 @@ Features:
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/d’andre-knight-358836251
 - Email: dandre.a.knight@gmail.com
-- Handshake: https://app.joinhandshake.com/profiles/swxp9d
