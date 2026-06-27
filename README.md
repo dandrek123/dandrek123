@@ -39,3 +39,4 @@ Features:
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/d’andre-knight-358836251
 - Email: dandre.a.knight@gmail.com
+- Feedback is welcome. If you test any of my projects, feel free to open an issue on GitHub or contact me with suggestions, bugs, or setup problems.
