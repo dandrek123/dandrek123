@@ -24,6 +24,10 @@
 
 AI-powered healthcare patient simulator built with Python, Gemini, transcript logging, scenario-based testing, and automated conversation analysis.
 
+### MissionShield
+
+Defense-style cybersecurity readiness dashboard built with React, Node.js, Express, and SQLite. Tracks mission system readiness, cyber incidents, severity levels, operational risk, response actions, and dashboard filtering.
+
 ### KnightLang
 
 A custom programming language built from scratch in Python.
