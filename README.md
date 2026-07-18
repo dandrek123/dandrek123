@@ -2,6 +2,10 @@
 
 🎓 Computer Science Graduate
 
+## 🌐 View My Portfolio
+
+### [Visit dandrek123.github.io](https://dandrek123.github.io)
+
 ## About Me
 - U.S. Citizen
 - Based in Panama City, Panama
@@ -41,6 +45,7 @@ Features:
 - Active development
 
 ## Connect With Me
+- GitHub Projects: https://github.com/dandrek123
 - LinkedIn: www.linkedin.com/in/d’andre-knight-358836251
 - Email: dandre.a.knight@gmail.com
 - Feedback is welcome. If you test any of my projects, feel free to open an issue on GitHub or contact me with suggestions, bugs, or setup problems.
